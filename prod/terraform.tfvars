@@ -1,0 +1,7 @@
+vpc_cidr                   = "10.2.0.0/16"
+public_subnet_cidr         = "10.2.1.0/24"
+private_with_nat_subnet_cidr = "10.2.2.0/24"
+private_subnet_cidr        = "10.2.3.0/24"
+availability_zone          = "us-west-2c"
+environment                = "prod"
+tags                       = "prod"
